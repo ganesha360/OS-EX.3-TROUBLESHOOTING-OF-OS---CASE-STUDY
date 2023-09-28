@@ -29,10 +29,11 @@ A simple restart can often fix minor glitches and improve system performance.
 
 # 5. Check Hardware:
 If it's a hardware-related issue, ensure that all hardware components are properly connected and functioning. Look for loose cables, overheating, or hardware failures.
+
+
+
+
 ![output](./e4.png)
-
-
-
 # 6. Run Diagnostic Tools:
 Use built-in diagnostic tools provided by the operating system to identify hardware or software problems.
 ![output](./s5.png)
