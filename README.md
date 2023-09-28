@@ -11,9 +11,6 @@ Start by determining the specific issue or error you're encountering. Is it a sy
 # 2. Gather Information:
 Collect relevant information about the problem. Note error messages, system behavior, recent changes, or any patterns related to the issue.
 ![output](./e2.png)
-
-
-
 # 3. Check for Updates:
 Ensure your operating system, drivers, and software are up to date. Sometimes,updating can resolve compatibility or security issues updating can resolves.
 ![output](./e3.png)
