@@ -4,7 +4,6 @@
 To Troubleshooting of Operating System
 
 # STEPS:
-
 # 1. Identify the Problem:
 Start by determining the specific issue or error you're encountering. Is it a system crash, slow performance, software not working, or something else?
 ![output](./e1.png)
@@ -15,7 +14,6 @@ Collect relevant information about the problem. Note error messages, system beha
 Ensure your operating system, drivers, and software are up to date. Sometimes,updating can resolve compatibility or security issues updating can resolves.
 ![output](./e3.png)
 # 4. Restart the System:
-
 A simple restart can often fix minor glitches and improve system performance.
 # 5. Check Hardware:
 If it's a hardware-related issue, ensure that all hardware components are properly connected and functioning. Look for loose cables, overheating, or hardware failures.
